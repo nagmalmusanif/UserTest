@@ -11,8 +11,6 @@ public class Demo1Application {
 		SpringApplication.run(Demo1Application.class, args);//
 		//this is develop bracg
 		//this from main
-		//this from mainn
-		//this from mainn
 	}
 
 }
